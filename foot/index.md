@@ -1,4 +1,5 @@
 ---
 layout: foot
-title: Foot & Ankle 
+title: Foot & Ankle
+url: foot
 ---
