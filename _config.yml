@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Department of Orthopaedic Surgery
 tagline:             Current Research Projects
-url:
+url:                 http://csbailey.org
 paginate:            1
-baseurl:             ""
+baseurl:             "ortho"
 
 # Assets
 #
