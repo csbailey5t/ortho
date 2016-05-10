@@ -1,4 +1,0 @@
----
-layout: hand
-title: Hand
----

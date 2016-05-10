@@ -1,4 +1,0 @@
----
-layout: sports
-title: Sports
----

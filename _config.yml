@@ -10,6 +10,30 @@ url:
 # paginate:            1
 baseurl:             ""
 
+# Collections
+collections:
+  foot:
+    output: true
+    permalink: /foot/:path/
+  hand:
+    output: true
+    permalink: /hand/:path/
+  pediatrics:
+    output: true
+    permalink: /pediatrics/:path/
+  recon:
+    output: true
+    permalink: /recon/:path/
+  spine:
+    output: true
+    permalink: /spine/:path/
+  sports:
+    output: true
+    permalink: /sports/:path/
+  trauma:
+    output: true
+    permalink: /trauma/:path/
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.

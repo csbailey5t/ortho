@@ -1,4 +1,0 @@
----
-layout: spine
-title: Spine
----
