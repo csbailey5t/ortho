@@ -1,6 +1,6 @@
 ---
 layout: post
-title: METRC&#58 PAIN
+title: METRC&#58; PAIN
 category: trauma
 ---
 

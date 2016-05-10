@@ -1,6 +1,6 @@
 ---
 layout: post
-title: METRC&#58 OUTLET
+title: METRC&#58; OUTLET
 category: trauma
 ---
 

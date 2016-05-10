@@ -1,6 +1,6 @@
 ---
 layout: post
-title: METRC&#58 STREAM
+title: METRC&#58; STREAM
 category: trauma
 ---
 

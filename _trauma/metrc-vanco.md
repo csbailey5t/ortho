@@ -1,6 +1,6 @@
 ---
 layout: post
-title: METRC&#58 VANCO
+title: METRC&#58; VANCO
 category: trauma
 ---
 
