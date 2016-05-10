@@ -1,16 +1,17 @@
 ---
 layout: page
 title: Foot & Ankle
+type: foot
 ---
 
-<article class="page">
+<div>
   {% for study in site.foot %}
   <a href="{{ site.baseurl }}{{ study.url }}">
-    <article class="post box">
+    <article class="box">
       <h2 class="post-title">
           {{ study.title }}
       </h2>
     </article>
   </a>
   {% endfor %}
-</article>
+</div>
